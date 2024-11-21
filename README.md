@@ -134,10 +134,21 @@ To compare the performance across all attempts, accuracy and loss visualizations
 
 Accuracy Across Attempts
 
+![accuracy_plot](https://github.com/user-attachments/assets/7d7706a8-9e3e-4723-a0cb-1e95a87ad3ab)
+
 Loss Across Attempts
+
+![loss_plot](https://github.com/user-attachments/assets/80f4de31-739a-41f7-8e1d-5c38e44c1351)
 
 ### Colab Visualizations
 
+Accuracy Across Attempts
+
+![accuracy_plot](https://github.com/user-attachments/assets/a12f6c95-e418-43d3-a6cd-fc5a9937eff1)
+
+Loss Across Attempts
+
+![loss_plot](https://github.com/user-attachments/assets/fa9ca2ab-e0a8-450c-b964-ac48a8f2c92d)
 
 **Summary**
 **Key Findings**
