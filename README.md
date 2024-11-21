@@ -12,7 +12,7 @@ This project was completed using the following environments:
 
 1. Jupyter Notebook (Local Environment):
 
-- Initial implementation, preprocessing, and first model training were developed locally to streamline testing.
+- Initial implementation, preprocessing, and all models training were developed locally to streamline testing.
 
 2. Google Colab:
 
@@ -162,7 +162,7 @@ Loss Across Attempts
  - Dropout and L2 regularization reduced overfitting but did not significantly boost accuracy.
 
 3. Final Performance:
- - The highest accuracy achieved was 72.90% (Attempt 2), falling short of the target accuracy of 75%.
+ - The highest accuracy achieved was 72.90% (Attempt 2) in notebook and 73.04% in Colab, falling short of the target accuracy of 75%.
 
 **Recommendations**
 1. Explore Alternative Models:
@@ -188,13 +188,14 @@ AlphabetSoupCharity.ipynb: Notebook for the initial model.
 AlphabetSoupCharity_Optimization.ipynb: Notebook for optimization attempts.
 AlphabetSoupCharity.h5: Model saved initial model.
 AlphabetSoupCharity_Attempt_2.h5: Model saved optimized model.
-AlphabetSoupCharity_Attempt_3.h5: Model saved optimized model
-AlphabetSoupCharity_Attempt_4.h5: Model saved optimized model
+AlphabetSoupCharity_Attempt_3.h5: Model saved optimized model.
+AlphabetSoupCharity_Attempt_4.h5: Model saved optimized model.
 AlphabetSoupCharity.ipynb_Colab: Notebook for the initial model in google colab.
 AlphabetSoupCharity_Optimization_Colab.ipynb: Notebook for optimization attempts in google colab.
 AlphabetSoupCharity_Attemp.h5: Saved initial model downloaded from google colab.
-AlphabetSoupCharity_Attempt_2.h5: Saved optimized model downloaded from google colab..
+AlphabetSoupCharity_Attempt_2.h5: Saved optimized model downloaded from google colab.
 AlphabetSoupCharity_Attempt_3.h5: Saved optimized model downloaded from google colab.
 AlphabetSoupCharity_Attempt_4.h5: Saved optimized model downloaded from google colab.
+Accuracy and Loss Across Attempts Visuals: Saved from both colab and jupyter notebooks.
 README.md: This report.
 
